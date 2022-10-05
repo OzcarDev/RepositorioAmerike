@@ -67,6 +67,10 @@
     - [Libros](./Ivan/Series_Ivan.md)
     - [Videojuegos](./Ivan/Videojuegos.md)
 
-
+- Max
+    - [musica](./Max%20Ibarra/musica.md)
+    - [peliculas](./Max%20Ibarra/peliculas.md)
+    - [series](./Max%20Ibarra/Series.md)
+    - [videojuegos](./Max%20Ibarra/videojuegos.md)
 
 
